@@ -4,6 +4,7 @@
 <div>
   <h2> 🔍 Dá uma olhada:</h2>
   <img src="https://cdn.discordapp.com/attachments/897262817776902168/912140956785070120/FireShot_Capture_001_-_Codelandia_-_Blog_-_.png" />
+  <h5 align="center"><a href="https://codelandiablog.netlify.app/">ACESSE AQUI O PROJETO!</a> </h5>
 </div>
 
 <div>
