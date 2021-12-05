@@ -1,6 +1,6 @@
 # Desafio 1 - Codelândia Blog - iuricode
 <h2> 💡 O que é isso ?</h2>
-    <h4>"Desafio proporcionado pelo @iuricode para treinamento de habilidades com HTML5 e CSS3"</h4>
+    <h3>"Desafio proporcionado pelo @iuricode para treinamento de habilidades com HTML5 e CSS3"</h3>
 <div>
   <h2> 🔍 Dá uma olhada:</h2>
   <img src="https://cdn.discordapp.com/attachments/897262817776902168/917189554786676877/unknown.png" />
