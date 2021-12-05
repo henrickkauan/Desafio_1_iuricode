@@ -3,7 +3,7 @@
     <h4>"Desafio proporcionado pelo @iuricode para treinamento de habilidades com HTML5 e CSS3"</h4>
 <div>
   <h2> 🔍 Dá uma olhada:</h2>
-  <img src="https://cdn.discordapp.com/attachments/897262817776902168/912140956785070120/FireShot_Capture_001_-_Codelandia_-_Blog_-_.png" />
+  <img src="https://cdn.discordapp.com/attachments/897262817776902168/917189554786676877/unknown.png" />
   <h5 align="center"><a href="https://codelandiablog.netlify.app/">ACESSE AQUI O PROJETO!</a> </h5>
 </div>
 
